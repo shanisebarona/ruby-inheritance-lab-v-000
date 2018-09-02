@@ -8,7 +8,7 @@ class Student < User
     @knowledge << knowledge
   end
   
-  def
+  def knowledge
     @knowledge 
   end
   
