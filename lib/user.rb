@@ -6,7 +6,7 @@ class User
     @knowledge = []
   end
   
-  def learn (knowledge)
+  def learn(knowledge)
     
   end
   
